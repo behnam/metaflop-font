@@ -1,0 +1,3 @@
+[submodule "metaflop-font-bespoke"]
+	path = metaflop-font-bespoke
+	url = git@github.com:greyfont/metaflop-font-bespoke.git
