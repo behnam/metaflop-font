@@ -1,3 +1,6 @@
 [submodule "metaflop-font-bespoke"]
 	path = metaflop-font-bespoke
 	url = git@github.com:greyfont/metaflop-font-bespoke.git
+[submodule "metaflop-font-adjuster"]
+	path = metaflop-font-adjuster
+	url = git@github.com:greyfont/metaflop-font-adjuster.git
